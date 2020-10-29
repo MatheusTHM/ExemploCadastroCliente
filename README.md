@@ -5,4 +5,4 @@ Logo da Empresa: PetVendas.jpg<br>
 Diagrama de Classes: Diagrama.png<br>
 Diagrama Entidade Relacionamento: DER.png<br>
 <p>Objetivo do Sistema: Nesse sistema os funcionários poderão cadastrar clientes e realizar vendas. Tais vendas serão salvas no banco de dados. Seguindo a ideia do PetHelper (Projeto de Fábrica de Projetos), o PetVendas é direcionado a donos de Pets, logos os produtos seriam relacionados a eles.</p>
-![Logo](https://cdn.discordapp.com/attachments/754372591967404074/771476062374068274/PetVendas.jpg)
+![](Images/PetVendas.jpg)
