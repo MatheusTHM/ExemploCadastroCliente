@@ -1,5 +1,5 @@
 # ExemploCadastroCliente
-Exemplo de Cadastro de Clientes usando Java
+Exemplo de Cadastro de Clientes usando Java\n
 Projeto Loja.
 Projeto de um Sistema de vendas em Java.
 Nome da loja: PetVendas
